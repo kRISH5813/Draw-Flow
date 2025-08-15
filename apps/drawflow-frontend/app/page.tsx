@@ -168,17 +168,17 @@ export default function ExcalidrawLanding() {
               {
                 icon: PenTool,
                 title: "Intuitive Drawing",
-                description: "Natural drawing experience with pressure-sensitive strokes and smooth curves"
+                description: "Natural drawing experience with smooth curves"
               },
               {
                 icon: Users,
                 title: "Real-time Collaboration", 
-                description: "Work together seamlessly with live cursors and instant synchronization"
+                description: "Work together seamlessly with instant synchronization"
               },
               {
                 icon: Layers,
                 title: "Infinite Canvas",
-                description: "Unlimited space for your ideas with smart organization and layering"
+                description: "Unlimited space for your ideas with smart organization"
               }
             ].map((feature, index) => (
               <div 

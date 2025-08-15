@@ -17,8 +17,9 @@ const geistMono = Geist_Mono({
 });
 
 // export const metadata: Metadata = {
-//   title: "Excalidraw",
-//   description: "Draw, collaborate and chat with your team in real-time",
+//   title: "DrawFlow",
+//   description: "collaborative drawboard",
+//   icons: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficon-library.com%2Fimages%2Fpencil-icon-png%2Fpencil-icon-png-21.jpg&f=1&nofb=1&ipt=6f2abbb9a487e7f9ae379b23b9fb4016b519fd1bca6d5ef6bc2652b7a06d051e"
 // };
 
 export default function RootLayout({
